@@ -1,7 +1,7 @@
 from Functions import *
 
 # Read all the .txt of the Whatsapp Conversation 
-text = read_txt("Conversa do WhatsApp com  W i n x.txt")
+text = read_txt("Whatsapp text file name.txt")
 
 node_list = treat_lines(text)
 
