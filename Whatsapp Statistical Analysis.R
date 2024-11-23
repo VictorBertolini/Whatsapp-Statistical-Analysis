@@ -211,15 +211,3 @@ for (i in 1:min(10, length(top_stickers_freq))) {
     
     print(paste(frequencie, "times:", stick))
 }
-
-
-
-
-
-
-
-
-
-
-
-
