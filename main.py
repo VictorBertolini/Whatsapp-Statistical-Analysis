@@ -11,5 +11,4 @@ save_xlsx(node_list, excel_file_name="Whatsapp Data.xlsx")
 # Key to know that the program fineshed 
 print("Program fineshed")
 
-print("Hello World")
 
